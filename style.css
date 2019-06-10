@@ -1,0 +1,17 @@
+/* Name of the element */
+body{
+  background-color: pink;
+}
+
+.btn{
+  border: 1px solid black;
+}
+
+/* input[type=text]{
+  border: 1px dotted blue;
+} */
+
+#text-field{
+  border: 1px dotted green;
+}
+
